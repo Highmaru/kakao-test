@@ -61,6 +61,9 @@ function tcomp(t1,t2) {
   } else return -1;
 }
 
+function getBus(item) {
+    
+}
 function getDuration(arr) {
   var min={h:0,m:0}
   var max={h:0,m:0}
